@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1322858418 source:h:\programacion\c\laboratorio3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+	"tda_abo.h"
+	"estructuras.h"
+
+1322858124 source:h:\programacion\c\laboratorio3\tda_abo.c
+	<stdlib.h>
+	"tda_abo.h"
+
+1322859603 h:\programacion\c\laboratorio3\tda_abo.h
+	"estructuras.h"
+
+1321986678 h:\programacion\c\laboratorio3\estructuras.h
+
+1322853535 h:\programacion\c\laboratorio3\main.h
+	"estructuras.h"
+
